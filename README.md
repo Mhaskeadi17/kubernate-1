@@ -1,1 +1,1 @@
-# kubernate-1
+# kubernate-1 for use only practise
